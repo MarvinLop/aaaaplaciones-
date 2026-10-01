@@ -1,0 +1,40 @@
+{
+  "id": "/",
+  "name": "AuxilioVecinal — Salud Comunitaria y Emergencias Offline",
+  "short_name": "AuxilioVec",
+  "description": "Aplicación web progresiva (PWA) 100% sin conexión para atención de emergencias domésticas y salud comunitaria con 12 fichas verificadas Qué hacer / Qué NO hacer y Sello de Transparencia IA M5.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F8FAFC",
+  "theme_color": "#0F172A",
+  "orientation": "portrait-primary",
+  "lang": "es-MX",
+  "categories": ["medical", "health", "utilities", "education"],
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

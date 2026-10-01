@@ -1,0 +1,6 @@
+{
+  "name": "AuxilioVecinal — Salud Comunitaria y Emergencias Offline",
+  "description": "Aplicación web progresiva (PWA) 100% sin conexión para atención de emergencias domésticas y salud comunitaria con 12 fichas verificadas Qué hacer / Qué NO hacer y Sello de Transparencia IA M5.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
